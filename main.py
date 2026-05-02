@@ -1,3 +1,3 @@
 print("hola desde B")
 print("se logrooooo :D")
-print("ayuda X_X")
+print("ya quiero acabar tengo sueño")
